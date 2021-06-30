@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 2 elements to &apos;HillClimbing algo/src&apos;&#x0D;&#x0A;- Original project: &apos;HillClimbing algo&apos;&#x0D;&#x0A;- Destination element: &apos;HillClimbing algo/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     NQueen.java&#x0D;&#x0A;     HillClimbingRandomRestart.java&#x0D;&#x0A;- Update references to refactored element" description="Move files" destination="/src" element1="NQueen.java" element2="HillClimbingRandomRestart.java" files="2" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1619401687822" units="0" version="1.0"/>
+</session>
